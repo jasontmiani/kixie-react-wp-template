@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 WP React Boilerplate
 ====================
 
@@ -28,3 +29,6 @@ npm run dev
 * [Writing Code](./docs/writing-code.md)
 
 
+=======
+# kixie-react-wp-template
+>>>>>>> 88a26e685516b97007385e14fb0706247433cffe
